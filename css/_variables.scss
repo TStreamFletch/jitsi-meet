@@ -161,18 +161,18 @@ $unsupportedDesktopBrowserTextFontSize: 21px;
 /**
  * The size of the default watermark.
  */
-$watermarkWidth: 186px;
-$watermarkHeight: 74px;
+$watermarkWidth: 300px;
+$watermarkHeight: 42px;
 
-$welcomePageWatermarkWidth: 186px;
-$welcomePageWatermarkHeight: 74px;
+$welcomePageWatermarkWidth: 300px;
+$welcomePageWatermarkHeight: 42px;
 
 /**
  * Welcome page variables.
  */
 $welcomePageDescriptionColor: #fff;
 $welcomePageFontFamily: inherit;
-$welcomePageBackground: linear-gradient(-90deg, #1251AE 0%, #0074FF 50%, #1251AE 100%);
+$welcomePageBackground: linear-gradient(-90deg, #333333 0%, #444444 50%, #555555 100%);
 $welcomePageTitleColor: #fff;
 
 $welcomePageHeaderBackground: none;
